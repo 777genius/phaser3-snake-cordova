@@ -1,8 +1,8 @@
 ![](https://i.imgur.com/tfiFz2r.png)
 
-### [Snake Demo](https://iliyazelenko.github.io/phaser3-snake-cordova/)
+### [Snake Demo](https://777genius.github.io/phaser3-snake-cordova/)
 
-https://iliyazelenko.github.io/phaser3-snake-cordova/
+https://777genius.github.io/phaser3-snake-cordova/
 
 ## Getting started
 
@@ -63,12 +63,12 @@ cordova run android --target "Nexus_4_API_26"
 
 ## Cheat Sheets
 
-- [Phaser.Game](https://github.com/iliyaZelenko/phaser3-typescript/blob/master/cheatsheets/game-config.md)
-- [Phaser.Scene](https://github.com/iliyaZelenko/phaser3-typescript/blob/master/cheatsheets/scene-config.md)
-- [Phaser.GameObject.Image](https://github.com/iliyaZelenko/phaser3-typescript/blob/master/cheatsheets/gameobjects/image.md)
-- [Phaser.GameObject.Sprite](https://github.com/iliyaZelenko/phaser3-typescript/blob/master/cheatsheets/gameobjects/sprite.md)
-- [Phaser.GameObject.Group](https://github.com/iliyaZelenko/phaser3-typescript/blob/master/cheatsheets/gameobjects/group.md)
-- [Phaser.GameObject.Mesh](https://github.com/iliyaZelenko/phaser3-typescript/blob/master/cheatsheets/gameobjects/mesh.md)
+- [Phaser.Game](https://github.com/777genius/phaser3-typescript/blob/master/cheatsheets/game-config.md)
+- [Phaser.Scene](https://github.com/777genius/phaser3-typescript/blob/master/cheatsheets/scene-config.md)
+- [Phaser.GameObject.Image](https://github.com/777genius/phaser3-typescript/blob/master/cheatsheets/gameobjects/image.md)
+- [Phaser.GameObject.Sprite](https://github.com/777genius/phaser3-typescript/blob/master/cheatsheets/gameobjects/sprite.md)
+- [Phaser.GameObject.Group](https://github.com/777genius/phaser3-typescript/blob/master/cheatsheets/gameobjects/group.md)
+- [Phaser.GameObject.Mesh](https://github.com/777genius/phaser3-typescript/blob/master/cheatsheets/gameobjects/mesh.md)
 
 ## External Resources
 
